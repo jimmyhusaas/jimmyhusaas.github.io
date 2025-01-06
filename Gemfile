@@ -6,7 +6,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.3"
 
 # 主題相關依賴
-gem "jekyll-theme-chirpy"
+gem "jekyll-theme-chirpy", "~> 7.2.4"
 
 # 用於測試的工具
 gem "html-proofer", "~> 5.0", group: :test
