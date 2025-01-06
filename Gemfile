@@ -2,13 +2,20 @@
 
 source "https://rubygems.org"
 
-gemspec
+# Jekyll 核心依賴
+gem "jekyll", "~> 4.3"
 
+# 主題相關依賴
+gem "jekyll-theme-chirpy"
+
+# 用於測試的工具
 gem "html-proofer", "~> 5.0", group: :test
 
+# 時區支持（針對 Windows 平台）
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", ">= 1", "< 3"
   gem "tzinfo-data"
 end
 
-gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
+# 文件監控（針對 Windows 平台）
+gem "wdm", "~> 0.2.0", platforms: [:mingw, :x64_mingw, :mswin]
