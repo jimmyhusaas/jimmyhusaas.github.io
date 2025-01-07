@@ -30,5 +30,3 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
-          #工作流默認將內容部署到 gh-pages 分支,這裡改成直接部署到 main 分支
-          publish_branch: main
