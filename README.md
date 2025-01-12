@@ -5,9 +5,9 @@ Welcome to my personal blog! This website is powered by [GitHub Pages](https://p
 
 ## Theme Information
 
-This site uses the [Theme Name](https://github.com/cotes2020/jekyll-theme-chirpy) created by [Author Name](https://github.com/cotes2020).
+This site uses the [jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) created by [cotes2020](https://github.com/cotes2020).
 
 
 ## How to View This Site
 
-To view my blog, visit: [https://yourusername.github.io/](https://jimmyhusaas.github.io/)
+To view my blog, visit: [https://jimmyhusaas.github.io/](https://jimmyhusaas.github.io/)
