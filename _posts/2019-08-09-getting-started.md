@@ -1,14 +1,15 @@
 ---
 title: Getting Started
 description: >-
-  Get started with Chirpy basics in this comprehensive overview.
-  You will learn how to install, configure, and use your first Chirpy-based website, as well as deploy it to a web server.
+   Get started with Chirpy basics in this comprehensive overview.
+   You will learn how to install, configure, and use your first Chirpy-based website, as well as deploy it to a web server.
 author: cotes
 date: 2019-08-09 20:55:00 +0800
 categories: [Blogging, Tutorial]
 tags: [getting started]
 pin: true
 media_subpath: '/posts/20180809'
+published: false
 ---
 
 ## Creating a Site Repository
@@ -68,7 +69,7 @@ For Unix-like systems, you can set up the environment natively for optimal perfo
 To run the site locally, use the following command:
 
 ```terminal
-$ bundle exec jekyll s
+$ bundle exec jekyll serve
 ```
 
 > If you are using Dev Containers, you must run that command in the **VS Code** Terminal.
