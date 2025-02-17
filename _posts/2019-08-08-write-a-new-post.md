@@ -5,6 +5,7 @@ date: 2019-08-08 14:10:00 +0800
 categories: [Blogging, Tutorial]
 tags: [writing]
 render_with_liquid: false
+published: false
 ---
 
 This tutorial will guide you how to write a post in the _Chirpy_ template, and it's worth reading even if you've used Jekyll before, as many features require specific variables to be set.
@@ -342,7 +343,7 @@ You can pin one or more posts to the top of the home page, and the fixed posts a
 
 ```yaml
 ---
-pin: true
+pin: false
 ---
 ```
 
@@ -464,8 +465,8 @@ $$
 
 $$
 \begin{equation}
-  LaTeX_math_expression
-  \label{eq:label_name}
+LaTeX_math_expression
+\label{eq:label_name}
 \end{equation}
 $$
 
