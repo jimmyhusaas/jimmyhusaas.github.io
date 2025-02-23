@@ -1,46 +1,77 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Efficiency on Hugo Theme Stack Starter</title><link>https://jimmyhusaas.github.io/tags/efficiency/</link><description>Recent content in Efficiency on Hugo Theme Stack Starter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 23 Feb 2025 16:00:00 +0800</lastBuildDate><atom:link href="https://jimmyhusaas.github.io/tags/efficiency/index.xml" rel="self" type="application/rss+xml"/><item><title>懶人學習法 1️⃣：如何高效入門，避開無效學習？</title><link>https://jimmyhusaas.github.io/p/%E6%87%B6%E4%BA%BA%E5%AD%B8%E7%BF%92%E6%B3%95-1%EF%B8%8F%E2%83%A3%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%85%A5%E9%96%80%E9%81%BF%E9%96%8B%E7%84%A1%E6%95%88%E5%AD%B8%E7%BF%92/</link><pubDate>Sun, 23 Feb 2025 16:00:00 +0800</pubDate><guid>https://jimmyhusaas.github.io/p/%E6%87%B6%E4%BA%BA%E5%AD%B8%E7%BF%92%E6%B3%95-1%EF%B8%8F%E2%83%A3%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%85%A5%E9%96%80%E9%81%BF%E9%96%8B%E7%84%A1%E6%95%88%E5%AD%B8%E7%BF%92/</guid><description>&lt;blockquote>
-&lt;blockquote>
-&lt;p>參考影片：&lt;a class="link" href="https://www.youtube.com/watch?v=pXHnLbyDKNQ" target="_blank" rel="noopener"
->How To Study Programming The Lazy Way&lt;/a>&lt;/p>&lt;/blockquote>&lt;/blockquote>
-&lt;p>這部影片分享了學習程式的底層邏輯，非常實用。&lt;/p>
-&lt;h2 id="-學習目標">🎯 學習目標
-&lt;/h2>&lt;p>✅ &lt;strong>最大化時間使用率&lt;/strong>&lt;br>
-✅ &lt;strong>用 2 小時達到過去 8 小時的學習效果&lt;/strong>
-別像考試一樣死記語法與單字，而是學習 &lt;strong>三大關鍵&lt;/strong>：&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Patterns（設計模式）&lt;/strong>&lt;/li>
-&lt;li>&lt;strong>Problem-solving approaches（解題思維）&lt;/strong>&lt;/li>
-&lt;li>&lt;strong>How different pieces fit together（如何整合知識）&lt;/strong>&lt;/li>
-&lt;/ul>
-&lt;p>程式設計只是個技能，可以 &lt;strong>最佳化學習方式&lt;/strong>，不必每天苦讀 8 小時！&lt;/p>
-&lt;hr>
-&lt;h2 id="-筆記工具">📝 筆記工具
-&lt;/h2>&lt;p>推薦這三款筆記軟體：&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;strong>Notion&lt;/strong>（適合筆記新手）&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Obsidian&lt;/strong>（適合知識管理）&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Xmind&lt;/strong>（適合畫心智圖）&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;p>選擇習慣的工具，重點在於 &lt;strong>開始寫筆記&lt;/strong>。&lt;/p>
-&lt;hr>
-&lt;h2 id="-最大化時間使用率">⏳ 最大化時間使用率
-&lt;/h2>&lt;h3 id="8020-法則帕累托法則">&lt;strong>80/20 法則&lt;/strong>（帕累托法則）
-&lt;/h3>&lt;p>&lt;strong>專注於最重要的 20%，獲得 80% 的成果。&lt;/strong>&lt;/p>
-&lt;h3 id="學習資源推薦roadmapsh">&lt;strong>學習資源推薦&lt;/strong>：&lt;a class="link" href="https://roadmap.sh/roadmaps" target="_blank" rel="noopener"
->roadmap.sh&lt;/a>
-&lt;/h3>&lt;p>這個網站整理了各領域的學習路線圖。以下為後端學習地圖，&lt;strong>黃色區塊&lt;/strong> 即為 &lt;strong>關鍵技能&lt;/strong>。&lt;/p>
-&lt;p>&lt;img src="https://jimmyhusaas.github.io/images/roadmap1.png"
-loading="lazy"
-alt="後端學習地圖"
->&lt;/p>
-&lt;p>下面的圖以後端為例，黃色部分就是關鍵的學習技能&lt;/p>
-&lt;p>&lt;img src="https://jimmyhusaas.github.io/images/roadmap2.png"
-loading="lazy"
-alt="關鍵技能"
->&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Efficiency on Hugo Theme Stack Starter</title>
+        <link>http://localhost:1313/tags/efficiency/</link>
+        <description>Recent content in Efficiency on Hugo Theme Stack Starter</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 23 Feb 2025 16:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/efficiency/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>懶人學習法 1️⃣：如何高效入門，避開無效學習？</title>
+        <link>http://localhost:1313/p/%E6%87%B6%E4%BA%BA%E5%AD%B8%E7%BF%92%E6%B3%95-1%EF%B8%8F%E2%83%A3%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%85%A5%E9%96%80%E9%81%BF%E9%96%8B%E7%84%A1%E6%95%88%E5%AD%B8%E7%BF%92/</link>
+        <pubDate>Sun, 23 Feb 2025 16:00:00 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/%E6%87%B6%E4%BA%BA%E5%AD%B8%E7%BF%92%E6%B3%95-1%EF%B8%8F%E2%83%A3%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%85%A5%E9%96%80%E9%81%BF%E9%96%8B%E7%84%A1%E6%95%88%E5%AD%B8%E7%BF%92/</guid>
+        <description>&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;參考影片：&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=pXHnLbyDKNQ&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;How To Study Programming The Lazy Way&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;
+&lt;p&gt;這部影片分享了學習程式的底層邏輯，非常實用。&lt;/p&gt;
+&lt;h2 id=&#34;-學習目標&#34;&gt;🎯 學習目標
+&lt;/h2&gt;&lt;p&gt;✅ &lt;strong&gt;最大化時間使用率&lt;/strong&gt;&lt;br&gt;
+✅ &lt;strong&gt;用 2 小時達到過去 8 小時的學習效果&lt;/strong&gt;
+別像考試一樣死記語法與單字，而是學習 &lt;strong&gt;三大關鍵&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Patterns（設計模式）&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Problem-solving approaches（解題思維）&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How different pieces fit together（如何整合知識）&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;程式設計只是個技能，可以 &lt;strong&gt;最佳化學習方式&lt;/strong&gt;，不必每天苦讀 8 小時！&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-筆記工具&#34;&gt;📝 筆記工具
+&lt;/h2&gt;&lt;p&gt;推薦這三款筆記軟體：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Notion&lt;/strong&gt;（適合筆記新手）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Obsidian&lt;/strong&gt;（適合知識管理）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Xmind&lt;/strong&gt;（適合畫心智圖）&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;選擇習慣的工具，重點在於 &lt;strong&gt;開始寫筆記&lt;/strong&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-最大化時間使用率&#34;&gt;⏳ 最大化時間使用率
+&lt;/h2&gt;&lt;h3 id=&#34;8020-法則帕累托法則&#34;&gt;&lt;strong&gt;80/20 法則&lt;/strong&gt;（帕累托法則）
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;專注於最重要的 20%，獲得 80% 的成果。&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;學習資源推薦roadmapsh&#34;&gt;&lt;strong&gt;學習資源推薦&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://roadmap.sh/roadmaps&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;roadmap.sh&lt;/a&gt;
+&lt;/h3&gt;&lt;p&gt;這個網站整理了各領域的學習路線圖。以下為後端學習地圖，&lt;strong&gt;黃色區塊&lt;/strong&gt; 即為 &lt;strong&gt;關鍵技能&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/roadmap1.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;後端學習地圖&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;下面的圖以後端為例，黃色部分就是關鍵的學習技能&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/roadmap2.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;關鍵技能&#34;
+	
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

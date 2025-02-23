@@ -1,191 +1,216 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Problem-Solving on Hugo Theme Stack Starter</title><link>https://jimmyhusaas.github.io/tags/problem-solving/</link><description>Recent content in Problem-Solving on Hugo Theme Stack Starter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 23 Feb 2025 16:10:00 +0800</lastBuildDate><atom:link href="https://jimmyhusaas.github.io/tags/problem-solving/index.xml" rel="self" type="application/rss+xml"/><item><title>懶人學習法 2️⃣：不靠死背，這 3 招讓你真正學會程式！</title><link>https://jimmyhusaas.github.io/p/%E6%87%B6%E4%BA%BA%E5%AD%B8%E7%BF%92%E6%B3%95-2%EF%B8%8F%E2%83%A3%E4%B8%8D%E9%9D%A0%E6%AD%BB%E8%83%8C%E9%80%99-3-%E6%8B%9B%E8%AE%93%E4%BD%A0%E7%9C%9F%E6%AD%A3%E5%AD%B8%E6%9C%83%E7%A8%8B%E5%BC%8F/</link><pubDate>Sun, 23 Feb 2025 16:10:00 +0800</pubDate><guid>https://jimmyhusaas.github.io/p/%E6%87%B6%E4%BA%BA%E5%AD%B8%E7%BF%92%E6%B3%95-2%EF%B8%8F%E2%83%A3%E4%B8%8D%E9%9D%A0%E6%AD%BB%E8%83%8C%E9%80%99-3-%E6%8B%9B%E8%AE%93%E4%BD%A0%E7%9C%9F%E6%AD%A3%E5%AD%B8%E6%9C%83%E7%A8%8B%E5%BC%8F/</guid><description>&lt;h2 id="-我的學習方法">💡 我的學習方法
-&lt;/h2>&lt;h3 id="專注於基礎概念與原則">&lt;strong>專注於基礎概念與原則&lt;/strong>
-&lt;/h3>&lt;p>學習時思考這些 &lt;strong>最核心的問題&lt;/strong>，提高學習效率：&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>What&lt;/strong> is this?&lt;/li>
-&lt;li>&lt;strong>Why&lt;/strong> is this important?&lt;/li>
-&lt;li>&lt;strong>Why&lt;/strong> should I learn this?&lt;/li>
-&lt;li>&lt;strong>When&lt;/strong> will I need this?&lt;/li>
-&lt;li>&lt;strong>How&lt;/strong> does this work?&lt;/li>
-&lt;/ul>
-&lt;p>上面是個範例，但核心就是利用What、Why、When、How來探索目前想學習的技術&lt;/p>
-&lt;p>✅ 為什麼這些問題有幫助呢？&lt;/p>
-&lt;ul>
-&lt;li>為了建立知識連結&lt;/li>
-&lt;li>可以看到目前技術在整體系統中的位置&lt;/li>
-&lt;li>更好的分類主題&lt;/li>
-&lt;/ul>
-&lt;p>🔍 &lt;strong>範例：OOP（物件導向）&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>What&lt;/strong> is OOP? → 物件導向是&amp;hellip;&lt;/li>
-&lt;li>&lt;strong>Why&lt;/strong> is OOP important? → 它如何幫助開發？&lt;/li>
-&lt;li>&lt;strong>When&lt;/strong> will I use OOP? → 在什麼情境下適用？&lt;/li>
-&lt;li>&lt;strong>How&lt;/strong> does OOP work? → OOP 的關鍵概念是什麼？&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="-學習技巧">🎯 學習技巧
-&lt;/h2>&lt;h3 id="1-把資訊轉換為問題">&lt;strong>1️⃣ 把資訊轉換為問題&lt;/strong>
-&lt;/h3>&lt;p>&lt;strong>比起抄筆記，更有效的方法是轉換為問題。&lt;/strong>&lt;/p>
-&lt;h4 id="-傳統筆記">🔹 傳統筆記：
-&lt;/h4>&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
-&lt;/span>&lt;span class="lnt"> 2
-&lt;/span>&lt;span class="lnt"> 3
-&lt;/span>&lt;span class="lnt"> 4
-&lt;/span>&lt;span class="lnt"> 5
-&lt;/span>&lt;span class="lnt"> 6
-&lt;/span>&lt;span class="lnt"> 7
-&lt;/span>&lt;span class="lnt"> 8
-&lt;/span>&lt;span class="lnt"> 9
-&lt;/span>&lt;span class="lnt">10
-&lt;/span>&lt;span class="lnt">11
-&lt;/span>&lt;span class="lnt">12
-&lt;/span>&lt;span class="lnt">13
-&lt;/span>&lt;span class="lnt">14
-&lt;/span>&lt;span class="lnt">15
-&lt;/span>&lt;span class="lnt">16
-&lt;/span>&lt;span class="lnt">17
-&lt;/span>&lt;span class="lnt">18
-&lt;/span>&lt;span class="lnt">19
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">- class（類別）:
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">class 是物件的模板或藍圖，用來定義物件的屬性（attributes） 和行為（methods）
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">class Car {
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">    String brand;
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">    int speed;
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> void drive() {
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> System.out.println(brand + &amp;#34; is driving at &amp;#34; + speed + &amp;#34; km/h.&amp;#34;);
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">    }
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">}
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">- object（物件）— 類別的實例 :
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">object 是根據 class 產生的具體實例```
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">public class Main {
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> public static void main(String[] args) {
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> Car myCar = new Car(); // 建立物件
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> myCar.brand = &amp;#34;Toyota&amp;#34;;
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> myCar.speed = 120;
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> myCar.drive(); // 呼叫方法
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> }
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;p>但這種寫法只能達到&lt;strong>整理資料&lt;/strong>的效果，並尚未經過足夠的消化時間變成&lt;strong>知識&lt;/strong>
-那這時候利用轉換成問題的方式來做筆記&lt;/p>
-&lt;h4 id="-問題式筆記">🔹 問題式筆記：
-&lt;/h4>&lt;h5 id="what-is-a-class">✅What is a class?
-&lt;/h5>&lt;details>
-  &lt;summary>Answer&lt;/summary>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Problem-Solving on Hugo Theme Stack Starter</title>
+        <link>http://localhost:1313/tags/problem-solving/</link>
+        <description>Recent content in Problem-Solving on Hugo Theme Stack Starter</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 23 Feb 2025 16:10:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/problem-solving/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>懶人學習法 2️⃣：不靠死背，這 3 招讓你真正學會程式！</title>
+        <link>http://localhost:1313/p/%E6%87%B6%E4%BA%BA%E5%AD%B8%E7%BF%92%E6%B3%95-2%EF%B8%8F%E2%83%A3%E4%B8%8D%E9%9D%A0%E6%AD%BB%E8%83%8C%E9%80%99-3-%E6%8B%9B%E8%AE%93%E4%BD%A0%E7%9C%9F%E6%AD%A3%E5%AD%B8%E6%9C%83%E7%A8%8B%E5%BC%8F/</link>
+        <pubDate>Sun, 23 Feb 2025 16:10:00 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/%E6%87%B6%E4%BA%BA%E5%AD%B8%E7%BF%92%E6%B3%95-2%EF%B8%8F%E2%83%A3%E4%B8%8D%E9%9D%A0%E6%AD%BB%E8%83%8C%E9%80%99-3-%E6%8B%9B%E8%AE%93%E4%BD%A0%E7%9C%9F%E6%AD%A3%E5%AD%B8%E6%9C%83%E7%A8%8B%E5%BC%8F/</guid>
+        <description>&lt;h2 id=&#34;-我的學習方法&#34;&gt;💡 我的學習方法
+&lt;/h2&gt;&lt;h3 id=&#34;專注於基礎概念與原則&#34;&gt;&lt;strong&gt;專注於基礎概念與原則&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;學習時思考這些 &lt;strong&gt;最核心的問題&lt;/strong&gt;，提高學習效率：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;What&lt;/strong&gt; is this?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Why&lt;/strong&gt; is this important?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Why&lt;/strong&gt; should I learn this?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;When&lt;/strong&gt; will I need this?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How&lt;/strong&gt; does this work?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;上面是個範例，但核心就是利用What、Why、When、How來探索目前想學習的技術&lt;/p&gt;
+&lt;p&gt;✅ 為什麼這些問題有幫助呢？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;為了建立知識連結&lt;/li&gt;
+&lt;li&gt;可以看到目前技術在整體系統中的位置&lt;/li&gt;
+&lt;li&gt;更好的分類主題&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🔍 &lt;strong&gt;範例：OOP（物件導向）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;What&lt;/strong&gt; is OOP? → 物件導向是&amp;hellip;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Why&lt;/strong&gt; is OOP important? → 它如何幫助開發？&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;When&lt;/strong&gt; will I use OOP? → 在什麼情境下適用？&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How&lt;/strong&gt; does OOP work? → OOP 的關鍵概念是什麼？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-學習技巧&#34;&gt;🎯 學習技巧
+&lt;/h2&gt;&lt;h3 id=&#34;1-把資訊轉換為問題&#34;&gt;&lt;strong&gt;1️⃣ 把資訊轉換為問題&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;比起抄筆記，更有效的方法是轉換為問題。&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&#34;-傳統筆記&#34;&gt;🔹 傳統筆記：
+&lt;/h4&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- class（類別）:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;class 是物件的模板或藍圖，用來定義物件的屬性（attributes） 和行為（methods）
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;class Car {
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    String brand;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    int speed;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	void drive() {
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;		System.out.println(brand + &amp;#34; is driving at &amp;#34; + speed + &amp;#34; km/h.&amp;#34;);
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    }
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- object（物件）— 類別的實例 :
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;object 是根據 class 產生的具體實例```
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;public class Main {
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    public static void main(String[] args) {
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        Car myCar = new Car();  // 建立物件
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        myCar.brand = &amp;#34;Toyota&amp;#34;;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        myCar.speed = 120;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        myCar.drive();  // 呼叫方法
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    }
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;但這種寫法只能達到&lt;strong&gt;整理資料&lt;/strong&gt;的效果，並尚未經過足夠的消化時間變成&lt;strong&gt;知識&lt;/strong&gt;
+那這時候利用轉換成問題的方式來做筆記&lt;/p&gt;
+&lt;h4 id=&#34;-問題式筆記&#34;&gt;🔹 問題式筆記：
+&lt;/h4&gt;&lt;h5 id=&#34;what-is-a-class&#34;&gt;✅What is a class?
+&lt;/h5&gt;&lt;details&gt;
+  &lt;summary&gt;Answer&lt;/summary&gt;
   class 是物件的模板或藍圖，用來定義物件的屬性（attributes） 和行為（methods）
-&lt;/details>
-&lt;h5 id="what-is-an-object">✅What is an Object?
-&lt;/h5>&lt;details>
-  &lt;summary>Answer&lt;/summary>
+&lt;/details&gt;
+&lt;h5 id=&#34;what-is-an-object&#34;&gt;✅What is an Object?
+&lt;/h5&gt;&lt;details&gt;
+  &lt;summary&gt;Answer&lt;/summary&gt;
   object 是根據 class 產生的具體實例
-&lt;/details>
-&lt;h5 id="how-do-you-create-a-class">✅How do you create a class?
-&lt;/h5>&lt;details>
-  &lt;summary>Answer&lt;/summary>
+&lt;/details&gt;
+&lt;h5 id=&#34;how-do-you-create-a-class&#34;&gt;✅How do you create a class?
+&lt;/h5&gt;&lt;details&gt;
+  &lt;summary&gt;Answer&lt;/summary&gt;
   請跟ChatGPT互動
-&lt;/details>
-&lt;h5 id="how-do-you-create-an-object">✅How do you create an Object?
-&lt;/h5>&lt;details>
-  &lt;summary>Answer&lt;/summary>
+&lt;/details&gt;
+&lt;h5 id=&#34;how-do-you-create-an-object&#34;&gt;✅How do you create an Object?
+&lt;/h5&gt;&lt;details&gt;
+  &lt;summary&gt;Answer&lt;/summary&gt;
   請跟ChatGPT互動
-&lt;/details>
-&lt;h5 id="whats-the-differencr-between-a-class-and-an-object">✅What&amp;rsquo;s the differencr between a class and an Object?
-&lt;/h5>&lt;details>
-  &lt;summary>Answer&lt;/summary>
+&lt;/details&gt;
+&lt;h5 id=&#34;whats-the-differencr-between-a-class-and-an-object&#34;&gt;✅What&amp;rsquo;s the differencr between a class and an Object?
+&lt;/h5&gt;&lt;details&gt;
+  &lt;summary&gt;Answer&lt;/summary&gt;
   請跟ChatGPT互動
-&lt;/details>
-&lt;p>透過問問題的方式，可以讓你實際上更關注這技術，更能促進連結和思考，不會導致大腦腐化&lt;/p>
-&lt;hr>
-&lt;h3 id="2-重寫定義">&lt;strong>2️⃣ 重寫定義&lt;/strong>
-&lt;/h3>&lt;ul>
-&lt;li>
-&lt;p>&lt;strong>用自己的話重新描述概念&lt;/strong>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>能讓跨領域的人或 5 歲小孩理解嗎？&lt;/strong>&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;p>🔍 &lt;strong>範例：
-Class 的定義&lt;/strong> &lt;/p>
-&lt;p>✅ &lt;strong>原本定義：&lt;/strong>&lt;/p>
-&lt;blockquote>
-&lt;p>Class 是物件的模板或藍圖，用來定義屬性與行為。&lt;/p>&lt;/blockquote>
-&lt;p>✅ &lt;strong>簡化後：&lt;/strong>&lt;/p>
-&lt;blockquote>
-&lt;p>Class 就像車子的架構，不管是哪個牌子的車，都有一定的基本設計。&lt;/p>&lt;/blockquote>
-&lt;p>&lt;strong>圖像化學習更有效！&lt;/strong> 📌
-&lt;img src="https://jimmyhusaas.github.io/images/car-class.png"
-loading="lazy"
-alt="carClass"
->&lt;/p>
-&lt;hr>
-&lt;h3 id="3-透過實作來學習">&lt;strong>3️⃣ 透過實作來學習&lt;/strong>
-&lt;/h3>&lt;p>不要只學理論，從 &lt;strong>做筆記&lt;/strong> 時就開始寫程式&lt;/p>
-&lt;p>📝 &lt;strong>試著自己改寫範例程式碼&lt;/strong>
-Code example&lt;/p>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
-&lt;/span>&lt;span class="lnt">2
-&lt;/span>&lt;span class="lnt">3
-&lt;/span>&lt;span class="lnt">4
-&lt;/span>&lt;span class="lnt">5
-&lt;/span>&lt;span class="lnt">6
-&lt;/span>&lt;span class="lnt">7
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">class Car {
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">    String brand;
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">    int speed;
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> void drive() {
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> System.out.println(brand + &amp;#34; is driving at &amp;#34; + speed + &amp;#34; km/h.&amp;#34;);
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">    }
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;p>My code example&lt;/p>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
-&lt;/span>&lt;span class="lnt">2
-&lt;/span>&lt;span class="lnt">3
-&lt;/span>&lt;span class="lnt">4
-&lt;/span>&lt;span class="lnt">5
-&lt;/span>&lt;span class="lnt">6
-&lt;/span>&lt;span class="lnt">7
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">class Bag {
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">    String color;
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">    String size;
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> void drive() {
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> System.out.println(this + &amp;#34; is a &amp;#34;+ size &amp;#34; sixe &amp;#34;+ color + &amp;#34; bag.&amp;#34;);
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">    }
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;p>code example可以直接上網查或是請ChatGPT生成後，直接複製貼過來，重點在於你要實際自己去寫程式碼，你才會有扎實的感覺，也不會在面對一個空白的專案資料夾時，不知如何下手&lt;/p>
-&lt;p>✅ &lt;strong>關鍵：自己動手寫！&lt;/strong>&lt;/p>
-&lt;hr>
-&lt;h2 id="-你的專案">🔨 你的專案
-&lt;/h2>&lt;p>🚀 &lt;strong>做專案是最好的學習方式！&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>透過 &lt;strong>解決問題&lt;/strong> 來學習&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>建立 &lt;strong>真實的開發經驗&lt;/strong>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>透過 Debug &lt;strong>強化理解&lt;/strong>&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;p>📌 &lt;strong>範例專案：Todo List / API 設計 / 個人網站&lt;/strong>&lt;/p>
-&lt;hr>
-&lt;h2 id="-設計與圖像化">🎨 設計與圖像化
-&lt;/h2>&lt;p>流程圖可以幫助理解複雜概念，推薦用 &lt;strong>UML、Database Schema、Architecture Diagram&lt;/strong> 來可視化設計。&lt;/p></description></item></channel></rss>
+&lt;/details&gt;
+&lt;p&gt;透過問問題的方式，可以讓你實際上更關注這技術，更能促進連結和思考，不會導致大腦腐化&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;2-重寫定義&#34;&gt;&lt;strong&gt;2️⃣ 重寫定義&lt;/strong&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;用自己的話重新描述概念&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;能讓跨領域的人或 5 歲小孩理解嗎？&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🔍 &lt;strong&gt;範例：
+Class 的定義&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;✅ &lt;strong&gt;原本定義：&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Class 是物件的模板或藍圖，用來定義屬性與行為。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;✅ &lt;strong&gt;簡化後：&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Class 就像車子的架構，不管是哪個牌子的車，都有一定的基本設計。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;圖像化學習更有效！&lt;/strong&gt; 📌
+&lt;img src=&#34;http://localhost:1313/images/car-class.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;carClass&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;3-透過實作來學習&#34;&gt;&lt;strong&gt;3️⃣ 透過實作來學習&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;不要只學理論，從 &lt;strong&gt;做筆記&lt;/strong&gt; 時就開始寫程式&lt;/p&gt;
+&lt;p&gt;📝 &lt;strong&gt;試著自己改寫範例程式碼&lt;/strong&gt;
+Code example&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;class Car {
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    String brand;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    int speed;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	void drive() {
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;		System.out.println(brand + &amp;#34; is driving at &amp;#34; + speed + &amp;#34; km/h.&amp;#34;);
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    }
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;My code example&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;class Bag {
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    String color;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    String size;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	void drive() {
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;		System.out.println(this + &amp;#34; is a &amp;#34;+ size &amp;#34; sixe &amp;#34;+ color + &amp;#34; bag.&amp;#34;);
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    }
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;code example可以直接上網查或是請ChatGPT生成後，直接複製貼過來，重點在於你要實際自己去寫程式碼，你才會有扎實的感覺，也不會在面對一個空白的專案資料夾時，不知如何下手&lt;/p&gt;
+&lt;p&gt;✅ &lt;strong&gt;關鍵：自己動手寫！&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-你的專案&#34;&gt;🔨 你的專案
+&lt;/h2&gt;&lt;p&gt;🚀 &lt;strong&gt;做專案是最好的學習方式！&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;透過 &lt;strong&gt;解決問題&lt;/strong&gt; 來學習&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;建立 &lt;strong&gt;真實的開發經驗&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;透過 Debug &lt;strong&gt;強化理解&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📌 &lt;strong&gt;範例專案：Todo List / API 設計 / 個人網站&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-設計與圖像化&#34;&gt;🎨 設計與圖像化
+&lt;/h2&gt;&lt;p&gt;流程圖可以幫助理解複雜概念，推薦用 &lt;strong&gt;UML、Database Schema、Architecture Diagram&lt;/strong&gt; 來可視化設計。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
