@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo Theme Stack Starter</title><link>https://jimmyhusaas.github.io/</link><description>Recent content on Hugo Theme Stack Starter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 23 Feb 2025 16:20:00 +0800</lastBuildDate><atom:link href="https://jimmyhusaas.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>JimmyHuSaaS：個人品牌也能像 SaaS 一樣 Scale Up</title><link>https://jimmyhusaas.github.io/p/jimmyhusaas%E5%80%8B%E4%BA%BA%E5%93%81%E7%89%8C%E4%B9%9F%E8%83%BD%E5%83%8F-saas-%E4%B8%80%E6%A8%A3-scale-up/</link><pubDate>Mon, 17 Feb 2025 23:06:00 +0800</pubDate><guid>https://jimmyhusaas.github.io/p/jimmyhusaas%E5%80%8B%E4%BA%BA%E5%93%81%E7%89%8C%E4%B9%9F%E8%83%BD%E5%83%8F-saas-%E4%B8%80%E6%A8%A3-scale-up/</guid><description>&lt;p>&lt;strong>簡單自我介紹&lt;/strong>&lt;br>
+我目前是個快邁入30歲的中年大叔（不想承認自己變老🥲），是個有五年工作經驗、目前專注在軟體工程後端開發的工程師——&lt;strong>Jimmy&lt;/strong>。&lt;/p>
+&lt;p>我把自己視為一個 &lt;strong>SaaS 產品（Software as a Service）&lt;/strong>，持續迭代、持續升級，並且不斷為「使用者」創造價值。&lt;br>
+我希望自己不只是單純累積技能，而是能像一個 SaaS 產品一樣，不斷優化、適應市場變化，並持續為他人帶來價值。&lt;br>
+SaaS 的核心是「&lt;strong>持續交付價值&lt;/strong>」，而我對自己的要求也是如此。&lt;br>
+在這裡，我不僅是創作者，也是「產品經理」，持續打磨「&lt;strong>JimmyHuSaaS&lt;/strong>」這個品牌。&lt;/p>
+&lt;p>&lt;strong>經營主題&lt;/strong>&lt;br>
+在這裡，我主要會分享：&lt;br>
+✅ 技術筆記與學習心得&lt;br>
+✅ 如何在AI時代下不被淘汰&lt;br>
+✅ 個人品牌經營心得&lt;br>
+✅ 日常雜記&lt;br>
+（未來若有新主題，會再補充更新😁）&lt;/p>
+&lt;hr>
+&lt;p>&lt;strong>AI時代下的職涯焦慮&lt;/strong>&lt;br>
+在資訊爆炸且AI快速崛起的世代中，作為軟體工程師，我也面臨著許多職涯焦慮：&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>我會不會被AI取代？&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>現在市場缺工現象減少，求職門檻變高，該如何突圍？&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>初中階工程師除了寫程式，還需具備系統設計、監控維運、效能調校等多元技能，競爭更加激烈。&lt;br>
+即使掌握了這些技能，也未必能輕易找到合適且薪資滿意的職缺。&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>AI的發展，應該順勢而行&lt;/strong>&lt;br>
+AI的出現，是為了讓生活更便利、解決更多問題。科技的進步從來都是讓人們更輕鬆，而不是成為威脅。&lt;br>
+&lt;strong>與其抗拒AI，不如思考如何運用AI來提升自己。&lt;/strong>&lt;br>
+正如那句常聽到的話：&lt;strong>「AI只會取代不會用AI的人。」&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;p>&lt;strong>為何我選擇經營部落格？&lt;/strong>&lt;br>
+在投資圈有句名言：「&lt;strong>不要把雞蛋都放在同一個籃子裡&lt;/strong>。」&lt;br>
+對許多人來說，工作就是唯一的籃子。&lt;br>
+但如果有一天失去了這份工作呢？開銷不會因為你失業就暫停。&lt;/p>
+&lt;p>因此，我想打造多個收入籃子，讓自己有更多選擇：&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>💡 &lt;strong>經營部落格&lt;/strong>：建立個人品牌，持續輸出價值&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>💼 &lt;strong>接案&lt;/strong>：提升技能並拓展人脈&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>🌐 &lt;strong>經營 LinkedIn&lt;/strong>：建立專業形象&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>💻 &lt;strong>參與開源專案&lt;/strong>：累積作品與實力&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>📝 &lt;strong>定期面試&lt;/strong>：保持對市場的敏感度&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>即使你不是工程師，也可以探索不同的籃子，例如兼差、團購或投資。&lt;/p>
+&lt;hr>
+&lt;p>&lt;strong>我的經營初衷：持續輸出價值&lt;/strong>&lt;br>
+我相信：&lt;strong>「只有大量輸出，才能驗證輸入是否真正內化。」&lt;/strong>&lt;br>
+透過寫作，我不僅能與大家分享學習歷程，還能倒逼自己將所學整理並深化。&lt;/p>
+&lt;p>未來希望這裡能成為我與志同道合的朋友們互相交流與成長的地方，&lt;br>
+也誠摯邀請你一同加入這趟旅程！ 🚀&lt;/p></description></item><item><title>懶人學習法 3️⃣：進階學習技巧，讓知識長久記住！</title><link>https://jimmyhusaas.github.io/p/%E6%87%B6%E4%BA%BA%E5%AD%B8%E7%BF%92%E6%B3%95-3%EF%B8%8F%E2%83%A3%E9%80%B2%E9%9A%8E%E5%AD%B8%E7%BF%92%E6%8A%80%E5%B7%A7%E8%AE%93%E7%9F%A5%E8%AD%98%E9%95%B7%E4%B9%85%E8%A8%98%E4%BD%8F/</link><pubDate>Sun, 23 Feb 2025 16:20:00 +0800</pubDate><guid>https://jimmyhusaas.github.io/p/%E6%87%B6%E4%BA%BA%E5%AD%B8%E7%BF%92%E6%B3%95-3%EF%B8%8F%E2%83%A3%E9%80%B2%E9%9A%8E%E5%AD%B8%E7%BF%92%E6%8A%80%E5%B7%A7%E8%AE%93%E7%9F%A5%E8%AD%98%E9%95%B7%E4%B9%85%E8%A8%98%E4%BD%8F/</guid><description>&lt;h2 id="-進階學習技巧">📖 進階學習技巧
+&lt;/h2>&lt;p>&lt;strong>1️⃣主動回憶（Active Recall）&lt;/strong>
+從記憶中主動擷取信息，使大腦更努力地回想訊息。
+回想訊息所需的努力，加強了我們對接收內容的記憶和理解，使其成為提高記憶留存和學習效率的強大工具。
+然後測驗，可以找線上測驗題或是請ChatGPT生成題目，測驗會讓你記住更多更久。&lt;/p>
+&lt;p>&lt;strong>2️⃣間隔重複(Space Repetition)&lt;/strong>
+間隔重複是一種記憶學習技巧，透過&lt;strong>在不同時間間隔內重複複習&lt;/strong>資訊，以增強記憶並減少遺忘。
+目標是&lt;strong>在快遺忘時進行復習&lt;/strong>，強化記憶效果。
+✅ &lt;strong>如何運作？&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>剛學到新知識時，短時間內頻繁複習。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>隨著記憶加深，逐漸拉長複習間隔，例如：&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>第 1 天學習&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>第 2 天複習&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>第 4 天複習&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>第 7 天複習&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>之後間隔更長（如 14 天、30 天）&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>如果學習是一盆水，傳統死記硬背就像一次性倒滿，但會很快蒸發； 而 &lt;strong>間隔重複&lt;/strong> 就像 &lt;strong>持續澆水&lt;/strong>，讓記憶逐漸鞏固，效果更持久！&lt;/p>
+&lt;hr>
+&lt;h2 id="-ai-是學習夥伴">🤖 AI 是學習夥伴
+&lt;/h2>&lt;p>現在AI工具眾多，但其實你不需要每個工具都去熟悉了解
+以目前來說，ChatGPT和claude就很足夠
+ChatGPT的資料量已經更新到2024年六月了
+足以回答你90％遇到的問題&lt;/p>
+&lt;p>🎯 &lt;strong>如何用 AI 來學習？&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>請 AI 當老師&lt;/strong>（問核心問題）
+你可以問他任何問題，像是前面我寫出的那五個“最核心的問題”
+利用What、Why、When、How來探索目前想學習的技術&lt;/li>
+&lt;li>&lt;strong>請 AI 生成練習題 &amp;amp; 模擬面試&lt;/strong>
+我最近都會請他生出測驗題，請他模擬成面試官來跟我對談，
+你也可以問他「我遇到這技術時，可以問什麼問題來強化學習?」，
+就是問AI「問AI問題的技巧、怎麼問AI問題」？
+聽起來很繞口，不知道怎麼問，那就從這問題開始問吧&lt;/li>
+&lt;li>&lt;strong>請 AI 優化筆記&lt;/strong>
+你可以把你寫好的筆記作為初稿，
+貼到聊天室，然後請AI幫你審視，
+問他「如何精簡並改進我的筆記？美化部分包括內容精簡、排版、段落、標點符號、該用粗體字或換顏色的地方等」&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;h2 id="-面試準備-刷題是必經之路">💼 面試準備-刷題是必經之路
+&lt;/h2>&lt;p>🔥 &lt;strong>刷題是軟體工程師必備能力！&lt;/strong>
+大多人刷題都會有個誤區，
+就是覺得像是背題庫那樣，把題目和解法背下來，
+覺得這樣就能通過，&lt;/p>
+&lt;p>但是這是效率最差且很傻的行為，
+以前學生時期也許這麼做可以考高分，
+但職場跟學校差很多，你學到的技能是你真正需要解決問題的秘方．
+如果你只是死記，等到面試時親口問你，
+只要你忘記了，就會腦筋空白，
+徹底了解題型和解法、多問為什麼、多問問提示來做引導式思考和解題&lt;/p>
+&lt;p>🎯 &lt;strong>LeetCode 刷題策略：&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>每天 3~5 題&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>新題&lt;/strong> + &lt;strong>回顧舊題&lt;/strong> + &lt;strong>研究解法&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>理解解法邏輯，而非死背&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>✅ &lt;strong>學會拆解題目，強化解題思維！&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;h2 id="總結">&lt;strong>總結&lt;/strong>
+&lt;/h2>&lt;p>🚀 &lt;strong>開始行動！學程式不需要 Hard Work，而是 Smart Work！&lt;/strong>&lt;/p>
+&lt;p>📌 &lt;strong>3 大關鍵&lt;/strong>：
+1️⃣ &lt;strong>學習核心概念&lt;/strong>（What / Why / How / When）
+2️⃣ &lt;strong>做筆記 &amp;amp; 轉換為問題&lt;/strong>
+3️⃣ &lt;strong>開始寫程式，動手做專案&lt;/strong>&lt;/p>
+&lt;p>💡 &lt;strong>學習 = 理論 + 動手實作！&lt;/strong>&lt;/p>
+&lt;p>📣 &lt;strong>開始寫程式吧！💻&lt;/strong>&lt;/p></description></item><item><title>懶人學習法 2️⃣：不靠死背，這 3 招讓你真正學會程式！</title><link>https://jimmyhusaas.github.io/p/%E6%87%B6%E4%BA%BA%E5%AD%B8%E7%BF%92%E6%B3%95-2%EF%B8%8F%E2%83%A3%E4%B8%8D%E9%9D%A0%E6%AD%BB%E8%83%8C%E9%80%99-3-%E6%8B%9B%E8%AE%93%E4%BD%A0%E7%9C%9F%E6%AD%A3%E5%AD%B8%E6%9C%83%E7%A8%8B%E5%BC%8F/</link><pubDate>Sun, 23 Feb 2025 16:10:00 +0800</pubDate><guid>https://jimmyhusaas.github.io/p/%E6%87%B6%E4%BA%BA%E5%AD%B8%E7%BF%92%E6%B3%95-2%EF%B8%8F%E2%83%A3%E4%B8%8D%E9%9D%A0%E6%AD%BB%E8%83%8C%E9%80%99-3-%E6%8B%9B%E8%AE%93%E4%BD%A0%E7%9C%9F%E6%AD%A3%E5%AD%B8%E6%9C%83%E7%A8%8B%E5%BC%8F/</guid><description>&lt;h2 id="-我的學習方法">💡 我的學習方法
+&lt;/h2>&lt;h3 id="專注於基礎概念與原則">&lt;strong>專注於基礎概念與原則&lt;/strong>
+&lt;/h3>&lt;p>學習時思考這些 &lt;strong>最核心的問題&lt;/strong>，提高學習效率：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>What&lt;/strong> is this?&lt;/li>
+&lt;li>&lt;strong>Why&lt;/strong> is this important?&lt;/li>
+&lt;li>&lt;strong>Why&lt;/strong> should I learn this?&lt;/li>
+&lt;li>&lt;strong>When&lt;/strong> will I need this?&lt;/li>
+&lt;li>&lt;strong>How&lt;/strong> does this work?&lt;/li>
+&lt;/ul>
+&lt;p>上面是個範例，但核心就是利用What、Why、When、How來探索目前想學習的技術&lt;/p>
+&lt;p>✅ 為什麼這些問題有幫助呢？&lt;/p>
+&lt;ul>
+&lt;li>為了建立知識連結&lt;/li>
+&lt;li>可以看到目前技術在整體系統中的位置&lt;/li>
+&lt;li>更好的分類主題&lt;/li>
+&lt;/ul>
+&lt;p>🔍 &lt;strong>範例：OOP（物件導向）&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>What&lt;/strong> is OOP? → 物件導向是&amp;hellip;&lt;/li>
+&lt;li>&lt;strong>Why&lt;/strong> is OOP important? → 它如何幫助開發？&lt;/li>
+&lt;li>&lt;strong>When&lt;/strong> will I use OOP? → 在什麼情境下適用？&lt;/li>
+&lt;li>&lt;strong>How&lt;/strong> does OOP work? → OOP 的關鍵概念是什麼？&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="-學習技巧">🎯 學習技巧
+&lt;/h2>&lt;h3 id="1-把資訊轉換為問題">&lt;strong>1️⃣ 把資訊轉換為問題&lt;/strong>
+&lt;/h3>&lt;p>&lt;strong>比起抄筆記，更有效的方法是轉換為問題。&lt;/strong>&lt;/p>
+&lt;h4 id="-傳統筆記">🔹 傳統筆記：
+&lt;/h4>&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;span class="lnt">19
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">- class（類別）:
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">class 是物件的模板或藍圖，用來定義物件的屬性（attributes） 和行為（methods）
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">class Car {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">    String brand;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">    int speed;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> void drive() {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> System.out.println(brand + &amp;#34; is driving at &amp;#34; + speed + &amp;#34; km/h.&amp;#34;);
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">    }
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">- object（物件）— 類別的實例 :
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">object 是根據 class 產生的具體實例```
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">public class Main {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> public static void main(String[] args) {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> Car myCar = new Car(); // 建立物件
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> myCar.brand = &amp;#34;Toyota&amp;#34;;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> myCar.speed = 120;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> myCar.drive(); // 呼叫方法
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> }
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>但這種寫法只能達到&lt;strong>整理資料&lt;/strong>的效果，並尚未經過足夠的消化時間變成&lt;strong>知識&lt;/strong>
+那這時候利用轉換成問題的方式來做筆記&lt;/p>
+&lt;h4 id="-問題式筆記">🔹 問題式筆記：
+&lt;/h4>&lt;h5 id="what-is-a-class">✅What is a class?
+&lt;/h5>&lt;details>
+  &lt;summary>Answer&lt;/summary>
+  class 是物件的模板或藍圖，用來定義物件的屬性（attributes） 和行為（methods）
+&lt;/details>
+&lt;h5 id="what-is-an-object">✅What is an Object?
+&lt;/h5>&lt;details>
+  &lt;summary>Answer&lt;/summary>
+  object 是根據 class 產生的具體實例
+&lt;/details>
+&lt;h5 id="how-do-you-create-a-class">✅How do you create a class?
+&lt;/h5>&lt;details>
+  &lt;summary>Answer&lt;/summary>
+  請跟ChatGPT互動
+&lt;/details>
+&lt;h5 id="how-do-you-create-an-object">✅How do you create an Object?
+&lt;/h5>&lt;details>
+  &lt;summary>Answer&lt;/summary>
+  請跟ChatGPT互動
+&lt;/details>
+&lt;h5 id="whats-the-differencr-between-a-class-and-an-object">✅What&amp;rsquo;s the differencr between a class and an Object?
+&lt;/h5>&lt;details>
+  &lt;summary>Answer&lt;/summary>
+  請跟ChatGPT互動
+&lt;/details>
+&lt;p>透過問問題的方式，可以讓你實際上更關注這技術，更能促進連結和思考，不會導致大腦腐化&lt;/p>
+&lt;hr>
+&lt;h3 id="2-重寫定義">&lt;strong>2️⃣ 重寫定義&lt;/strong>
+&lt;/h3>&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>用自己的話重新描述概念&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>能讓跨領域的人或 5 歲小孩理解嗎？&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>🔍 &lt;strong>範例：
+Class 的定義&lt;/strong> &lt;/p>
+&lt;p>✅ &lt;strong>原本定義：&lt;/strong>&lt;/p>
+&lt;blockquote>
+&lt;p>Class 是物件的模板或藍圖，用來定義屬性與行為。&lt;/p>&lt;/blockquote>
+&lt;p>✅ &lt;strong>簡化後：&lt;/strong>&lt;/p>
+&lt;blockquote>
+&lt;p>Class 就像車子的架構，不管是哪個牌子的車，都有一定的基本設計。&lt;/p>&lt;/blockquote>
+&lt;p>&lt;strong>圖像化學習更有效！&lt;/strong> 📌
+&lt;img src="https://jimmyhusaas.github.io/images/car-class.png"
+loading="lazy"
+alt="carClass"
+>&lt;/p>
+&lt;hr>
+&lt;h3 id="3-透過實作來學習">&lt;strong>3️⃣ 透過實作來學習&lt;/strong>
+&lt;/h3>&lt;p>不要只學理論，從 &lt;strong>做筆記&lt;/strong> 時就開始寫程式&lt;/p>
+&lt;p>📝 &lt;strong>試著自己改寫範例程式碼&lt;/strong>
+Code example&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">class Car {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">    String brand;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">    int speed;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> void drive() {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> System.out.println(brand + &amp;#34; is driving at &amp;#34; + speed + &amp;#34; km/h.&amp;#34;);
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">    }
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>My code example&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">class Bag {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">    String color;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">    String size;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> void drive() {
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> System.out.println(this + &amp;#34; is a &amp;#34;+ size &amp;#34; sixe &amp;#34;+ color + &amp;#34; bag.&amp;#34;);
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">    }
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>code example可以直接上網查或是請ChatGPT生成後，直接複製貼過來，重點在於你要實際自己去寫程式碼，你才會有扎實的感覺，也不會在面對一個空白的專案資料夾時，不知如何下手&lt;/p>
+&lt;p>✅ &lt;strong>關鍵：自己動手寫！&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;h2 id="-你的專案">🔨 你的專案
+&lt;/h2>&lt;p>🚀 &lt;strong>做專案是最好的學習方式！&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>透過 &lt;strong>解決問題&lt;/strong> 來學習&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>建立 &lt;strong>真實的開發經驗&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>透過 Debug &lt;strong>強化理解&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>📌 &lt;strong>範例專案：Todo List / API 設計 / 個人網站&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;h2 id="-設計與圖像化">🎨 設計與圖像化
+&lt;/h2>&lt;p>流程圖可以幫助理解複雜概念，推薦用 &lt;strong>UML、Database Schema、Architecture Diagram&lt;/strong> 來可視化設計。&lt;/p></description></item><item><title>懶人學習法 1️⃣：如何高效入門，避開無效學習？</title><link>https://jimmyhusaas.github.io/p/%E6%87%B6%E4%BA%BA%E5%AD%B8%E7%BF%92%E6%B3%95-1%EF%B8%8F%E2%83%A3%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%85%A5%E9%96%80%E9%81%BF%E9%96%8B%E7%84%A1%E6%95%88%E5%AD%B8%E7%BF%92/</link><pubDate>Sun, 23 Feb 2025 16:00:00 +0800</pubDate><guid>https://jimmyhusaas.github.io/p/%E6%87%B6%E4%BA%BA%E5%AD%B8%E7%BF%92%E6%B3%95-1%EF%B8%8F%E2%83%A3%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%85%A5%E9%96%80%E9%81%BF%E9%96%8B%E7%84%A1%E6%95%88%E5%AD%B8%E7%BF%92/</guid><description>&lt;blockquote>
+&lt;blockquote>
+&lt;p>參考影片：&lt;a class="link" href="https://www.youtube.com/watch?v=pXHnLbyDKNQ" target="_blank" rel="noopener"
+>How To Study Programming The Lazy Way&lt;/a>&lt;/p>&lt;/blockquote>&lt;/blockquote>
+&lt;p>這部影片分享了學習程式的底層邏輯，非常實用。&lt;/p>
+&lt;h2 id="-學習目標">🎯 學習目標
+&lt;/h2>&lt;p>✅ &lt;strong>最大化時間使用率&lt;/strong>&lt;br>
+✅ &lt;strong>用 2 小時達到過去 8 小時的學習效果&lt;/strong>
+別像考試一樣死記語法與單字，而是學習 &lt;strong>三大關鍵&lt;/strong>：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Patterns（設計模式）&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Problem-solving approaches（解題思維）&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>How different pieces fit together（如何整合知識）&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;p>程式設計只是個技能，可以 &lt;strong>最佳化學習方式&lt;/strong>，不必每天苦讀 8 小時！&lt;/p>
+&lt;hr>
+&lt;h2 id="-筆記工具">📝 筆記工具
+&lt;/h2>&lt;p>推薦這三款筆記軟體：&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Notion&lt;/strong>（適合筆記新手）&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Obsidian&lt;/strong>（適合知識管理）&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Xmind&lt;/strong>（適合畫心智圖）&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>選擇習慣的工具，重點在於 &lt;strong>開始寫筆記&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h2 id="-最大化時間使用率">⏳ 最大化時間使用率
+&lt;/h2>&lt;h3 id="8020-法則帕累托法則">&lt;strong>80/20 法則&lt;/strong>（帕累托法則）
+&lt;/h3>&lt;p>&lt;strong>專注於最重要的 20%，獲得 80% 的成果。&lt;/strong>&lt;/p>
+&lt;h3 id="學習資源推薦roadmapsh">&lt;strong>學習資源推薦&lt;/strong>：&lt;a class="link" href="https://roadmap.sh/roadmaps" target="_blank" rel="noopener"
+>roadmap.sh&lt;/a>
+&lt;/h3>&lt;p>這個網站整理了各領域的學習路線圖。以下為後端學習地圖，&lt;strong>黃色區塊&lt;/strong> 即為 &lt;strong>關鍵技能&lt;/strong>。&lt;/p>
+&lt;p>&lt;img src="https://jimmyhusaas.github.io/images/roadmap1.png"
+loading="lazy"
+alt="後端學習地圖"
+>&lt;/p>
+&lt;p>下面的圖以後端為例，黃色部分就是關鍵的學習技能&lt;/p>
+&lt;p>&lt;img src="https://jimmyhusaas.github.io/images/roadmap2.png"
+loading="lazy"
+alt="關鍵技能"
+>&lt;/p></description></item><item><title>Archives</title><link>https://jimmyhusaas.github.io/archives/</link><pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate><guid>https://jimmyhusaas.github.io/archives/</guid><description/></item><item><title>Search</title><link>https://jimmyhusaas.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jimmyhusaas.github.io/search/</guid><description/></item></channel></rss>
