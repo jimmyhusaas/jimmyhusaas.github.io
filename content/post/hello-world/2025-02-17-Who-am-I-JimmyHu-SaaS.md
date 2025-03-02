@@ -7,7 +7,7 @@ date: 2025-02-17 23:06:00+0800
 categories:
   - Myself
 tags:
-  - myself
+  - Myself
 pin: true
 weight: 1
 ---
